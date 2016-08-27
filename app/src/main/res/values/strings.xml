@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Metronom</string>
+    <string name="manual">Manual Mode</string>
+    <string name="set_bmp">Set bmp you need below</string>
+    <string name="bpm">bpm</string>
+    <string name="indicator">Indicator</string>
+    <string name="exit">Are you sure you want to exit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3664161384009406/5954038773</string>
+
+</resources>

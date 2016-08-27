@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "44687488984",
+    "firebase_url": "https://admob-app-id-4477305577.firebaseio.com",
+    "project_id": "admob-app-id-4477305577",
+    "storage_bucket": "admob-app-id-4477305577.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44687488984:android:86ce34fc28414a2e",
+        "android_client_info": {
+          "package_name": "ua.com.gusakov.Metronome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44687488984-tv9c09e95fla9t5r8f5l1elv4jkn2lfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnoM1_6M6qgH7i-4NZoKx35ZInygQQtQk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
