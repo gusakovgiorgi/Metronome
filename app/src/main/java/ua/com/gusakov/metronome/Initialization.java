@@ -330,9 +330,9 @@ public class Initialization  implements SeekBar.OnSeekBarChangeListener {
     private void initialCamera() {
         int currentapiVersion = android.os.Build.VERSION.SDK_INT;
         if (currentapiVersion >= android.os.Build.VERSION_CODES.LOLLIPOP){
-            camera=new Camera2(activity);
+            camera=new CameraNew(activity);
         } else{
-            // do something for phones running an SDK before lollipop
+            camera=new CameraOld(activity);
         }
     }
     private void setSerifs(){

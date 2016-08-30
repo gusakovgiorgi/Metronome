@@ -8,5 +8,6 @@
     <string name="yes">Yes</string>
     <string name="no">No</string>
     <string name="banner_ad_unit_id">ca-app-pub-3664161384009406/5954038773</string>
+    <string name="no_flash_message">flash light is not supported!</string>
 
 </resources>

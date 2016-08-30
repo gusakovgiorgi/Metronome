@@ -19,7 +19,7 @@ import java.util.List;
 /**
  * Created by hasana on 6/28/2016.
  */
-public class Camera2 extends Camera{
+public class CameraNew extends Camera{
     Context ctx;
     private CameraManager cameraManager;
     private CameraCharacteristics cameraCharacteristics;
@@ -33,7 +33,7 @@ public class Camera2 extends Camera{
     List<Surface> list;
     SurfaceTexture mSurfaceTexture;
 
-    Camera2(Context ctx){
+    CameraNew(Context ctx){
         this.ctx=ctx;
         init();
     }
